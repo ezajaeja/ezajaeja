@@ -1,14 +1,4 @@
-<!-- Header Wave (Commented Out)
-<div align="center">
-  <a href="#">
-    <img 
-      width="100%" 
-      src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
-    />
-  </a>
-  <br>
-</div>
--->
+
 
 <!-- Footer Wave (Commented Out)
 <p align="center">
@@ -20,9 +10,9 @@
 -->
 
 <!-- MasterHead -->
-<a ![](image_202624_215030.png)
+ ![](image_202624_215030.png)
 
-</a>
+
 
 <!-- Greeting -->
 <!--<h2 align="center">❂ I am Raesya Satria Mikaelana</h2>-->
